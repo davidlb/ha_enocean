@@ -1,0 +1,9 @@
+{
+  "domain": "enocean_dleb",
+  "name": "EnOcean Stats",
+  "documentation": "https://www.home-assistant.io/integrations/enocean",
+  "requirements": ["enocean==0.50"],
+  "codeowners": ["@bdurrer", "@davidlb"],
+  "config_flow": true,
+  "iot_class": "local_push"
+}
